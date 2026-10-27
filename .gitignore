@@ -8,3 +8,5 @@ captures/
 .cxx/
 _reference/
 *.apk
+
+.kotlin/
