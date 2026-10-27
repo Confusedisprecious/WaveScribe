@@ -19,6 +19,18 @@ WaveScribe 是一款运行在安卓手机上的**离线语音转录（ASR）App*
 | 📚 历史记录 | 转写结果自动保存，支持复制、分享、播放原音 |
 | 🔒 完全离线 | 识别、解码、转写全部在本地，无网络权限也照常工作（仅模型下载需要网络） |
 
+## 📸 界面预览
+
+<table>
+<tr>
+<td align="center"><img src="screenshots/transcribe.png" width="190"><br/><sub>实时转写</sub></td>
+<td align="center"><img src="screenshots/models.png" width="190"><br/><sub>模型管理（按设备推荐）</sub></td>
+<td align="center"><img src="screenshots/history.png" width="190"><br/><sub>历史记录（含原音）</sub></td>
+<td align="center"><img src="screenshots/history-detail.png" width="190"><br/><sub>历史详情（播放原音）</sub></td>
+<td align="center"><img src="screenshots/file.png" width="190"><br/><sub>文件转写</sub></td>
+</tr>
+</table>
+
 ## 📱 完全免费
 
 - **无内购、无订阅、无广告、无账号注册**
